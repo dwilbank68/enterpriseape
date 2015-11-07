@@ -51,3 +51,4 @@ group :development, :test do
   gem 'capybara'
 end
 
+gem 'bootstrap-sass'
